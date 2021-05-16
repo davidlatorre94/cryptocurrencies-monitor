@@ -1,6 +1,6 @@
 import express from 'express';
 import userRoutes from './routes/user-routes';
-import cryptocurrencieRoutes from './routes/cryptocurrencie-route';
+import cryptocurrencieRoutes from './routes/cryptocurrency-route';
 import './config/database';
 
 const app = express();

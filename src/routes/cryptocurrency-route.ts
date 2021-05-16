@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { cryptocurrencieController } from '../controllers/cryptocurrencie-controller';
+import { cryptocurrencieController } from '../controllers/cryptocurrency-controller';
 
 const router: Router = Router();
 
